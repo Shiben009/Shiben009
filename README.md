@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shiben009
 - 👀 I’m interested in writing pine script
-- 🌱 I’m currently learning C==, pine script and HTML
+- 🌱 I’m currently learning pine script, C++ and HTML
 - 📫 How to reach me @ telegram
 
 
