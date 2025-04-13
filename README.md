@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shiben009
-- 👀 I’m interested in writing pine strip
+- 👀 I’m interested in writing pine script
 - 🌱 I’m currently learning C==, pine script and HTML
 - 📫 How to reach me @ telegram
 
